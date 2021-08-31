@@ -19,7 +19,7 @@
         float: left;
         position: relative; 
         padding: 20px;
-        display: block;
+        display: block!important;
     }
 }
 
