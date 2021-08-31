@@ -18,7 +18,6 @@
         float: left;
         position: relative; 
         padding: 20px;
-        display: block!important;
     }
     .gridTrabajos .table.table-filter .contInfo {
         display:none;
