@@ -1,3 +1,4 @@
+
 @media (min-width: 320px) {
 
     .contPager {
@@ -19,6 +20,10 @@
         padding: 20px;
         display: block!important;
     }
+    .gridTrabajos .table + .table-filter .contInfo {
+        border: 1px solid red;
+    }
+
 }
 
 @media (min-width: 768px) {
