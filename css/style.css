@@ -20,8 +20,9 @@
         padding: 20px;
         display: block!important;
     }
-    .gridTrabajos .table + .table-filter .contInfo {
-        border: 1px solid red;
+    .gridTrabajos .table+.table-filter .contInfo {
+        border: 3px solid red;
+
     }
 
 }
