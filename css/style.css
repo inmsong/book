@@ -1,6 +1,12 @@
 @media (min-width: 320px) {
 
-
+    .contPager {
+        float: left;
+        position: relative;
+        width: 100%;
+        text-align: center;
+        border: 1px solid lime;
+    }
     .contGallery {
         width: 100%;
         float: left;
