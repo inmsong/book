@@ -22,6 +22,7 @@
     }
     .gridTrabajos .table.table-filter .contInfo {
         display:none;
+        float:left;
 
     }
 
