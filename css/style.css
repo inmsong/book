@@ -1632,13 +1632,11 @@
         height: auto;
     }
 
-    .ttlHeadMd .ctnHeaderIcn {
-        top: 50%;
-    }
+   
 
     .ttlHeadMd .contImgHeader {
         min-width: 100%;
-        height: 400px
+        height: 400px;
     }
 
     .ttlHeadMd .contBreadRedes {
@@ -1691,6 +1689,7 @@
     .ttlHeadMd .SecTituloCuentas p {
         color: #fff;
         text-align: center;
+        padding: 0;
     }
 
     .ttlHeadMd .icnTrabajos {
