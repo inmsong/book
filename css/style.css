@@ -894,7 +894,11 @@
         background: #bcb9b9;
         overflow: hidden;
     }
-
+    .contPager a {
+        font-size: 12px;
+        color: #fff;
+        margin: 0 30px;
+    }
     .ttlHeadMd .contImgHeader img {
         width: auto;
         min-width: 100%;
