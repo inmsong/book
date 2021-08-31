@@ -5,13 +5,11 @@
         position: relative;
         width: 100%;
         text-align: center;
-        border: 1px solid lime;
     }
     .contGallery {
         width: 100%;
         float: left;
         position: relative;
-        border: 1px solid red;
         padding-bottom: 30px;
     }
     .contInfo {
