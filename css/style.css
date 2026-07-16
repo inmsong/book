@@ -69,11 +69,16 @@
         outline: none !important;
     }
 
-    .lnkDisable {
+    /*.lnkDisable {
         cursor: not-allowed;
         text-decoration:none!important;
+    }*/
+    [aria-current="page"] {
+      pointer-events: none;
+      cursor: default;
+      text-decoration: none;
+      color: black;
     }
-
     .seccGral {
         width: 100%;
         float: left;
